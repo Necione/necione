@@ -13,7 +13,7 @@
 
 <p align="center">
   <p align="center">
-    Here are some of my GitHub stats:
+    <h2>Here are my GitHub stats:</h2>
   </p>
     <p align="center">
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
