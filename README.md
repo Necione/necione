@@ -4,11 +4,11 @@
     
   </a>
   <p align="center">
-   <img width="150" height="150" src="https://file.coffee/u/9rNz_VrsIh7gGGzxgQ24v.png" alt="Logo">
+   <img width="150" height="150" src="https://file.coffee/u/YrJll6_3aBhGe_WGJGHS8.png" alt="Profile Picture">
   </p>
   <h1 align="center"><b>Hey, I'm Necione 👋</b></h1>
   <p align="center">
-  Test
+  I'm currently 14 years old!
 </p>
 
 <p align="center">
