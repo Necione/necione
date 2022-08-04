@@ -14,7 +14,6 @@
 <p align="center">
   <p align="center">
     Here are some of my GitHub stats:
-  </p>
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-light-mode-only" />
