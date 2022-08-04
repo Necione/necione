@@ -1,7 +1,7 @@
 
 <p align="center">
   <p align="center">
-    <img width="150" height="150" src="https://file.coffee/u/YrJll6_3aBhGe_WGJGHS8.png" alt="Profile Picture">
+    <img width="150" height="150" src="https://file.coffee/u/DztBZzxcL1f1y2RW5QdTU.jpg" alt="Profile Picture">
       </p>
     <h1 align="center"><b>Hey, I'm Necione 👋</b></h1>
     <p align="center">
