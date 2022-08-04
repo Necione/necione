@@ -3,7 +3,7 @@
   <p align="center">
     <img width="150" height="150" src="https://file.coffee/u/DztBZzxcL1f1y2RW5QdTU.jpg" alt="Profile Picture">
       </p>
-    <h1 align="center"><b>Hey, I'm Necione 👋</b></h1>
+    <h1 align="center"><b>Hey 👋, I'm Necione</b></h1>
     <p align="center">
       Graphics Designer @ https://www.spacedrive.com/ | Reverse Engineer
     <p align="center">
