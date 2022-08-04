@@ -8,10 +8,13 @@
   </p>
   <h1 align="center"><b>Hey, I'm Necione 👋</b></h1>
   <p align="center">
-  I'm currently 14 years old!
+  Graphics Designer @ https://www.spacedrive.com/ | Reverse Engineer
 </p>
 
 <p align="center">
+  <p align="center">
+    Here are some of my GitHub stats:
+  </p>
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-light-mode-only" />
