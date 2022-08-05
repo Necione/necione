@@ -4,9 +4,9 @@
       </p>
     <h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
     <p align="center">
-      Graphics Designer @ https://www.spacedrive.com/ | Reverse Engineer | Staff & Developer @ https://refund.army/
+      Graphic Designer @ https://www.spacedrive.com/ | Video Games Reverse Engineer | Staff & Developer @ https://refund.army/
     <p align="center">
-      >> I own a Discord Server: https://discord.gg/shrivel <<
+      I own a Discord Server: https://discord.gg/shrivel (you should join)
   </p>
 </p>
 
