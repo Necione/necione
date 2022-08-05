@@ -20,4 +20,3 @@
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </p>
-.
