@@ -4,7 +4,7 @@
       </p>
     <h1 align="center"><b>Hello 👋 I'm Okayspier</b></h1>
     <p align="center">
-      Graphic Designer @ https://www.spacedrive.com/ | Video Games Reverse Engineer | Staff & Developer @ https://refund.army/
+      Graphic Designer @ https://www.spacedrive.com/ | Video Games Reverse Engineer
 </p>
 
 <p align="center">
