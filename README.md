@@ -2,7 +2,7 @@
   <p align="center">
     <img width="150" height="150" src="https://file.coffee/u/RlYr98BMGGp83kDY9DgGk.jpg" alt="Profile Picture">
       </p>
-    <h1 align="center"><b>Hello 👋 I'm Okayspier</b></h1>
+    <h1 align="center"><b>Hello 👋 I'm Neci</b></h1>
     <p align="center">
       Graphic Designer @ https://www.spacedrive.com/ | Video Games Reverse Engineer
 </p>
