@@ -5,6 +5,7 @@
     <h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
     <p align="center">
       Graphic Designer @ https://www.spacedrive.com/ | Video Games Reverse Engineer
+      15 Years | Leo | INTJ
 </p>
 
 <p align="center">
