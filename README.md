@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <p align="center">
-    <h3 align="center">Here are my GitHub stats:</h3>
-  </p>
-    <p align="center">
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-light-mode-only" />
