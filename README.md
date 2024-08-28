@@ -4,7 +4,7 @@
       </p>
     <h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
     <p align="center">
-      16 Years | Leo | INTJ
+      17 Years | Leo | INTJ
     </p>
 </p>
 
