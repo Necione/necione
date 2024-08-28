@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <img width="150" height="150" src = "https://file.coffee/u/3j6XzsjuFdyoafXjzRUDF.png">
+    <img width="150" height="150" src = "https://i.imgur.com/Qpq9YhS.png">
       </p>
     <h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
     <p align="center">
