@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/necione/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+![necione's Stats](https://github-readme-stats.vercel.app/api?username=necione&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![necione's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=necione&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </p>
