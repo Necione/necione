@@ -1,14 +1,14 @@
 <p align="center">
-  <p align="center">
-    <img width="150" height="150" src = "https://i.imgur.com/Qpq9YhS.png">
-      </p>
-    <h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
-    <p align="center">
-      17 Years | Leo | INTJ
-    </p>
+  <img width="150" height="150" src="https://i.imgur.com/Qpq9YhS.png">
+</p>
+
+<h1 align="center"><b>Hello 👋 I'm Necione</b></h1>
+
+<p align="center">
+  17 Years | Leo | INTJ
 </p>
 
 <p align="center">
-![necione's Stats](https://github-readme-stats.vercel.app/api?username=necione&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![necione's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=necione&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=necione&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necione&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
