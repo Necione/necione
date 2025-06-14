@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=necione&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necione&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=necione&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necione&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400" height="200"/>
 </p>
